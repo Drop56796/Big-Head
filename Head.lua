@@ -1,6 +1,6 @@
 --//Settings
 local Settings =  
-{Size = 16}
+{Size = 8}
 
 --//Services
 local Players = game:GetService("Players")
